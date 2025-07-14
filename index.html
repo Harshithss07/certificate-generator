@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain Certificate System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Blockchain Digital Certificate System</h2>
+        
+        <h3>Issue Certificate</h3>
+        <input type="text" id="certificateName" placeholder="Enter Your Name">
+        <input type="text" id="certificateCourse" placeholder="Enter Course/Program">
+        <button onclick="issueCertificate()">Issue Certificate</button>
+
+        <h3>Verify Certificate</h3>
+        <input type="text" id="verifyCertId" placeholder="Enter Certificate ID">
+        <button onclick="verifyCertificate()">Verify</button>
+        <p id="verificationResult"></p>
+
+        <h3>Issued Certificates</h3>
+        <ul id="certificates"></ul>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
