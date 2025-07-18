@@ -8,12 +8,14 @@ This web-based application allows authorized users to issue, verify, and downloa
 ## 📸 Preview
 
 ### 🔐 Certificate Issuing Panel
- <img width="582" height="686" alt="Certigen" src="https://github.com/user-attachments/assets/57e9ba54-c540-4484-abd5-5f324b749c8e" />
-
+<p align=center>
+  <img width="582" height="686" alt="Certigen" src="https://github.com/user-attachments/assets/57e9ba54-c540-4484-abd5-5f324b749c8e" />
+</p>
 
 ### 🧾 Generated Certificate
- <img width="701" height="495" alt="downloded pdf certificate" src="https://github.com/user-attachments/assets/14ed069c-3270-49cd-aa49-7dbe689d5708" />
-
+<p align=center>
+  <img width="701" height="495" alt="downloded pdf certificate" src="https://github.com/user-attachments/assets/14ed069c-3270-49cd-aa49-7dbe689d5708" />
+</p>
 
 ---
 ## 🛠️ Tech Stack
